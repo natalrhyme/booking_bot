@@ -19,7 +19,7 @@ A Python-based web scraping tool that automates hotel searches on Booking.com an
 - ChromeDriver (compatible with your Chrome version)
 
 ## Project Structure
-'''
+```
 booking-scraper/
 ├── booking/
 │ ├── init.py
@@ -29,4 +29,4 @@ booking-scraper/
 │ └── constants.py # Configuration constants
 ├── run.py # Script entry point
 └── README.md
-'''
+```
